@@ -7,3 +7,10 @@
 /// @DnDArgument : "y_relative" "1"
 x += 0;
 y += -5;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 58E6BF4B
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "upwalk"
+upwalk = 1;
