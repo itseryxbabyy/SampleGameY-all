@@ -23,6 +23,6 @@ if(lewalk == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 646F460D
 	/// @DnDParent : 042E3D07
-	/// @DnDArgument : "speed" "9"
-	image_speed = 9;
+	/// @DnDArgument : "speed" ".3"
+	image_speed = .3;
 }
